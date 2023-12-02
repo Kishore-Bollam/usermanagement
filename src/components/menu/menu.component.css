@@ -1,0 +1,17 @@
+.menu {
+  background-color: black;
+  padding: 20px;
+  margin: 10px;
+}
+.menu-item {
+  color: whitesmoke;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 100px;
+}
+.menu-item:hover {
+  border-bottom: 3px solid white;
+  width: 20px;
+  color: #f53f7b;
+}

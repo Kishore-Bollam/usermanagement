@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "Name": "kishore",
+      "phonenumber": "123456789",
+      "email": "bollamkishore1995@gmail.com",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "Date": "2023-10-31",
+      "Description": "i'm from hyderabad",
+      "id": 1
+    }
+  ],
+  "country": [
+    {
+      "CountryName": "india",
+      "Description": "i'M FROM INDIA",
+      "id": 1
+    },
+    {
+      "CountryName": "UK",
+      "Description": "UK",
+      "id": 2
+    }
+  ],
+  "State": [
+    {
+      "Countryname": "India",
+      "Statename": "TELANGANA",
+      "Description": "proud to be indian",
+      "id": 1
+    },
+    {
+      "Countryname": "AMERICA",
+      "Statename": "WASHINGTON DC",
+      "Description": "e United States of America (USA",
+      "id": 2
+    },
+    {
+      "Countryname": "India",
+      "Statename": "TELANGANA",
+      "Description": "MMMMM",
+      "id": 3
+    }
+  ]
+}
